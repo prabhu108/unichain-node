@@ -1,4 +1,4 @@
-# Unichain Node
+# Unichain Node process
 
 ![image](logo.png)
 
